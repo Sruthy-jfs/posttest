@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<style>
+    input{
+        border-top-style: hidden;
+        border-left-style: hidden;
+        border-right-style: hidden;
+        border-bottom-style: ;
+    }
+</style>
+
+
+
+<body>
+    <center>
+        <form action="">
+                
+
+
+    
+  <h1>
+       Create your Oracle Account 
+    </h1>
+    <h2>
+        Already have an Oracle Acoount?<span style="color:red">Sign in</span>
+    </h2>
+    <table>
+        
+
+    <tr>
+        <td>
+            Email Address <span style = "color:red">*</span> <input type="text" ><br><br>
+
+        </td> 
+        <td>
+
+        </td>
+        <td>
+            Your Email Address is your username
+        </td>
+    
+    </tr>
+    <tr>
+        <td>
+            Password <span style = "color:red">*</span> <input type="text" ><br><br>
+
+        </td>
+        <td>
+
+        </td>
+        <td>
+            Password must have upper and lowercase letters
+        </td>
+    </tr>
+   <tr>
+       <td>
+        Retype Password<span style = "color:red">*</span> <input type="text" ><br><br>
+       </td>
+   </tr>
+   <tr>
+       <td>
+        Country<span style = "color:red">*</span>
+
+        <select>
+            <option>INDIA</option>
+            <option>AMERICA</option>
+            <option>AUSTRALIA</option>
+            <option>NEW ZEALAND</option>
+            <option>UGANDA</option>
+        </select>
+
+       </td>
+   </tr>
+    
+
+
+<tr>
+    <td>
+
+    
+
+
+Name<span style = "color:red">*</span> <input type="text"  placeholder="First or Given Name">
+</td>
+<td>
+    <input type="text"  placeholder="Last Name">
+
+</td>
+
+</tr>
+<tr>
+    <td>
+        Job Title <span style = "color:red">*</span><input type="text" >
+    </td>
+</tr>
+<tr>
+    <td>
+        Work Phone <span style = "color:red">*</span><input type="text" >
+    </td>
+</tr>
+<tr>
+    <td>
+        Company Name<span style = "color:red">*</span><input type="text" >
+    </td>
+</tr>
+<tr>
+    <td>
+        Address <span style = "color:red">*</span><input type="text" >
+    </td>
+</tr>
+    <tr>
+    <td>
+      &emsp; &emsp;&emsp; <input type="text" >
+
+    </td>
+   
+</tr>
+<tr>
+    <td>
+        City <span style = "color:red">*</span><input type="text" >
+    </td>
+</tr>
+<tr>
+    <td>
+        State/Province<span style = "color:red">*</span>
+        <select>
+            <option>-Select-</option>
+            <option>Kerala</option>
+            <option>Tamil nadu</option>
+            <option>Karnataka</option>
+            <option>UGANDA</option>
+        </select>
+        
+    </td>
+</tr>
+<tr>
+    <td>
+        ZIP/PostalCode <span style = "color:red">*</span><input type="text" >
+    </td>
+</tr>
+<tr>
+    
+    
+    <td>
+        <br>
+      <i> You may opt out of all marketing communications<span style="color:red">Unsubscribe</span></i>
+    </td>
+</tr>
+<tr>
+    <td>
+By clicking on the create button below  you understand and agree the terms and conditions the use of oracle website
+subject to <span style="color:red">Oracle.com Terms and conditions</span>   Additionals details regarding
+</td>
+
+</tr>
+
+
+<br>
+<tr>
+    <td>
+        <input type="button"   style ="background-color: rgb(11, 167, 11) ;color: white;" value="Create Account">
+
+    </td>
+</tr>
+
+
+
+</table>
+</body>
+
+</form>
+</center>
+
+</body>
+
+</html>
